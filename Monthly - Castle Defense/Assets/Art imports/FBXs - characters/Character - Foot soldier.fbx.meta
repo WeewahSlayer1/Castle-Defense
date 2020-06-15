@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: f17370d0d7a4f41469bc8985f64cd80d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Elbow.L
+    100004: Elbow.L_end
+    100006: Elbow.R
+    100008: Elbow.R_end
+    100010: Finger1.L
+    100012: Finger1.R
+    100014: Finger2.L
+    100016: Finger2.L.001
+    100018: Finger2.L.001_end
+    100020: Finger2.L_end
+    100022: Foot soldier
+    100024: foot.L
+    100026: foot.L_end
+    100028: foot.R
+    100030: foot.R_end
+    100032: footIK.L
+    100034: footIK.L_end
+    100036: footIK.R
+    100038: footIK.R_end
+    100040: Forearm.L
+    100042: Forearm.R
+    100044: hand.L
+    100046: hand.R
+    100048: handIK.L
+    100050: handIK.L_end
+    100052: handIK.R
+    100054: handIK.R_end
+    100056: Head
+    100058: Head_end
+    100060: Knee.L
+    100062: Knee.L_end
+    100064: Knee.R
+    100066: Knee.R_end
+    100068: Pike
+    100070: Rig
+    100072: shin.L
+    100074: shin.R
+    100076: Spine1-pelvis
+    100078: Spine2
+    100080: Spine3
+    100082: thigh.L
+    100084: thigh.R
+    100086: Thumb1.L
+    100088: Thumb1.R
+    100090: Thumb2.L
+    100092: Thumb2.L_end
+    100094: Thumb2.R
+    100096: Thumb2.R_end
+    100098: UpperArm.L
+    100100: UpperArm.R
+    100102: Weapon
+    100104: Weapon_end
+    400000: //RootNode
+    400002: Elbow.L
+    400004: Elbow.L_end
+    400006: Elbow.R
+    400008: Elbow.R_end
+    400010: Finger1.L
+    400012: Finger1.R
+    400014: Finger2.L
+    400016: Finger2.L.001
+    400018: Finger2.L.001_end
+    400020: Finger2.L_end
+    400022: Foot soldier
+    400024: foot.L
+    400026: foot.L_end
+    400028: foot.R
+    400030: foot.R_end
+    400032: footIK.L
+    400034: footIK.L_end
+    400036: footIK.R
+    400038: footIK.R_end
+    400040: Forearm.L
+    400042: Forearm.R
+    400044: hand.L
+    400046: hand.R
+    400048: handIK.L
+    400050: handIK.L_end
+    400052: handIK.R
+    400054: handIK.R_end
+    400056: Head
+    400058: Head_end
+    400060: Knee.L
+    400062: Knee.L_end
+    400064: Knee.R
+    400066: Knee.R_end
+    400068: Pike
+    400070: Rig
+    400072: shin.L
+    400074: shin.R
+    400076: Spine1-pelvis
+    400078: Spine2
+    400080: Spine3
+    400082: thigh.L
+    400084: thigh.R
+    400086: Thumb1.L
+    400088: Thumb1.R
+    400090: Thumb2.L
+    400092: Thumb2.L_end
+    400094: Thumb2.R
+    400096: Thumb2.R_end
+    400098: UpperArm.L
+    400100: UpperArm.R
+    400102: Weapon
+    400104: Weapon_end
+    2100000: LowPoly - Brown - Light
+    2100002: LowPoly - Grey
+    2100004: Baked - Colours
+    4300000: Pike
+    4300002: Foot soldier
+    7400000: 1 - Idle
+    7400002: 2 - Run
+    7400004: 3 - Attack - universal
+    7400006: 4 - Attack - impaled
+    7400008: 5 - Attack - overhead
+    7400010: 6 - Death - spear
+    7400012: 7 - Death - impaled
+    7400014: 8 - Death - slammed
+    7400016: Rig|1 - Idle
+    7400018: Rig|2 - Run
+    7400020: Rig|3 - Attack - universal
+    7400022: Rig|4 - Attack - impaled
+    7400024: Rig|5 - Attack - overhead
+    7400026: Rig|6 - Death - spear
+    7400028: Rig|7 - Death - impaled
+    7400030: Rig|8 - Death - slammed
+    9500000: //RootNode
+    13700000: Foot soldier
+    13700002: Pike
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

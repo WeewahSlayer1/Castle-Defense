@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/Castle scene.unity
-  isLoaded: 1
-  isActive: 1

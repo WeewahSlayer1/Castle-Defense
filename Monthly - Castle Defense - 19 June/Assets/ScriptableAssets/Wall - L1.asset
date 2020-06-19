@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e716ff03101bbc34d8b4b68031cabe26, type: 3}
+  m_Name: Wall - L1
+  m_EditorClassIdentifier: 
+  buildingObj: {fileID: 2889497279227262078, guid: e85ee2cf9819aed4b8287ccf3edc7bf9,
+    type: 3}
+  mat_Proto: {fileID: 2100000, guid: e1855012c6cfe8b4fb2a67428f3c90ae, type: 2}
+  mat_Final: {fileID: 2100000, guid: e7fbce933966edc48abe6c9f1091acfd, type: 2}
+  wall:
+    wallObj: {fileID: 6452779666608809525, guid: 4508b21a96d149347810f0305c6915a1,
+      type: 3}
+    wallLength: 2.5
+    wallOffset: 5

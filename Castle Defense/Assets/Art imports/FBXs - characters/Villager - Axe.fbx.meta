@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: c3d499bf7bb687643822b2a1296d0ec6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Elbow.L
+    100002: Elbow.L_end
+    100004: Elbow.R
+    100006: Elbow.R_end
+    100008: Finger1.L
+    100010: Finger1.R
+    100012: Finger2.L
+    100014: Finger2.L.001
+    100016: Finger2.L.001_end
+    100018: Finger2.L_end
+    100020: foot.L
+    100022: foot.L_end
+    100024: foot.R
+    100026: foot.R_end
+    100028: footIK.L
+    100030: footIK.L_end
+    100032: footIK.R
+    100034: footIK.R_end
+    100036: Forearm.L
+    100038: Forearm.R
+    100040: hand.L
+    100042: hand.R
+    100044: handIK.L
+    100046: handIK.L_end
+    100048: handIK.R
+    100050: handIK.R_end
+    100052: Head
+    100054: Head_end
+    100056: Knee.L
+    100058: Knee.L_end
+    100060: Knee.R
+    100062: Knee.R_end
+    100064: Rig
+    100066: shin.L
+    100068: shin.R
+    100070: Soldier - L1 - 6
+    100072: Spine1-pelvis
+    100074: Spine2
+    100076: Spine3
+    100078: thigh.L
+    100080: thigh.R
+    100082: Thumb1.L
+    100084: Thumb1.R
+    100086: Thumb2.L
+    100088: Thumb2.L_end
+    100090: Thumb2.R
+    100092: Thumb2.R_end
+    100094: UpperArm.L
+    100096: UpperArm.R
+    100098: //RootNode
+    100100: Villager - Axe
+    100102: Weapon
+    100104: Weapon - lefty
+    100106: Weapon - lefty_end
+    100108: Weapon - part1
+    100110: Weapon - part1_end
+    100112: Weapon - part2
+    100114: Weapon - part2_end
+    400000: Elbow.L
+    400002: Elbow.L_end
+    400004: Elbow.R
+    400006: Elbow.R_end
+    400008: Finger1.L
+    400010: Finger1.R
+    400012: Finger2.L
+    400014: Finger2.L.001
+    400016: Finger2.L.001_end
+    400018: Finger2.L_end
+    400020: foot.L
+    400022: foot.L_end
+    400024: foot.R
+    400026: foot.R_end
+    400028: footIK.L
+    400030: footIK.L_end
+    400032: footIK.R
+    400034: footIK.R_end
+    400036: Forearm.L
+    400038: Forearm.R
+    400040: hand.L
+    400042: hand.R
+    400044: handIK.L
+    400046: handIK.L_end
+    400048: handIK.R
+    400050: handIK.R_end
+    400052: Head
+    400054: Head_end
+    400056: Knee.L
+    400058: Knee.L_end
+    400060: Knee.R
+    400062: Knee.R_end
+    400064: Rig
+    400066: shin.L
+    400068: shin.R
+    400070: Soldier - L1 - 6
+    400072: Spine1-pelvis
+    400074: Spine2
+    400076: Spine3
+    400078: thigh.L
+    400080: thigh.R
+    400082: Thumb1.L
+    400084: Thumb1.R
+    400086: Thumb2.L
+    400088: Thumb2.L_end
+    400090: Thumb2.R
+    400092: Thumb2.R_end
+    400094: UpperArm.L
+    400096: UpperArm.R
+    400098: //RootNode
+    400100: Villager - Axe
+    400102: Weapon
+    400104: Weapon - lefty
+    400106: Weapon - lefty_end
+    400108: Weapon - part1
+    400110: Weapon - part1_end
+    400112: Weapon - part2
+    400114: Weapon - part2_end
+    2100000: Baked - Colours
+    4300000: Soldier - L1 - 6
+    4300002: Villager - Axe
+    7400000: Swing - Villager Axe - Right
+    7400002: Swing - Villager Axe - Left
+    7400004: Run - Villager Axe
+    7400006: Walk - Villager Axe
+    7400008: Idle - Villager Axe
+    7400010: Rig|Run - Villager Axe
+    7400012: Rig|Swing - Villager Axe - Left
+    7400014: Rig|Swing - Villager Axe - Right
+    7400016: Rig|Walk - Villager Axe
+    9500000: //RootNode
+    13700000: Soldier - L1 - 6
+    13700002: Villager - Axe
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Swing - Villager Axe - Right
+      takeName: Swing - Villager Axe - Right
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swing - Villager Axe - Left
+      takeName: Swing - Villager Axe - Left
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run - Villager Axe
+      takeName: Run - Villager Axe
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk - Villager Axe
+      takeName: Walk - Villager Axe
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle - Villager Axe
+      takeName: Rig|Idle - Villager Axe
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 9e4b3ed746f04cd48b0c5a758794dd6e,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

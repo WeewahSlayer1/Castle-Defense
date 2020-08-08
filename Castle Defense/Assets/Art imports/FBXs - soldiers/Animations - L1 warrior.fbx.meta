@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 2aca87b5c8a9ee94c9121099e0077885
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Elbow.L
+    100004: Elbow.L_end
+    100006: Elbow.R
+    100008: Elbow.R_end
+    100010: Finger1.L
+    100012: Finger1.R
+    100014: Finger2.L
+    100016: Finger2.L.001
+    100018: Finger2.L.001_end
+    100020: Finger2.L_end
+    100022: foot.L
+    100024: foot.L_end
+    100026: foot.R
+    100028: foot.R_end
+    100030: footIK.L
+    100032: footIK.L_end
+    100034: footIK.R
+    100036: footIK.R_end
+    100038: Forearm.L
+    100040: Forearm.R
+    100042: hand.L
+    100044: hand.R
+    100046: handIK.L
+    100048: handIK.L_end
+    100050: handIK.R
+    100052: handIK.R_end
+    100054: Head
+    100056: Head_end
+    100058: Knee.L
+    100060: Knee.L_end
+    100062: Knee.R
+    100064: Knee.R_end
+    100066: L1 shield
+    100068: L1 spear
+    100070: Rig.002
+    100072: shin.L
+    100074: shin.R
+    100076: Spine1-pelvis
+    100078: Spine2
+    100080: Spine3
+    100082: thigh.L
+    100084: thigh.R
+    100086: Thumb1.L
+    100088: Thumb1.R
+    100090: Thumb2.L
+    100092: Thumb2.L_end
+    100094: Thumb2.R
+    100096: Thumb2.R_end
+    100098: UpperArm.L
+    100100: UpperArm.R
+    100102: Weapon
+    100104: Weapon - part1
+    100106: Weapon - part1_end
+    100108: Weapon - part2
+    100110: Weapon - part2_end
+    400000: //RootNode
+    400002: Elbow.L
+    400004: Elbow.L_end
+    400006: Elbow.R
+    400008: Elbow.R_end
+    400010: Finger1.L
+    400012: Finger1.R
+    400014: Finger2.L
+    400016: Finger2.L.001
+    400018: Finger2.L.001_end
+    400020: Finger2.L_end
+    400022: foot.L
+    400024: foot.L_end
+    400026: foot.R
+    400028: foot.R_end
+    400030: footIK.L
+    400032: footIK.L_end
+    400034: footIK.R
+    400036: footIK.R_end
+    400038: Forearm.L
+    400040: Forearm.R
+    400042: hand.L
+    400044: hand.R
+    400046: handIK.L
+    400048: handIK.L_end
+    400050: handIK.R
+    400052: handIK.R_end
+    400054: Head
+    400056: Head_end
+    400058: Knee.L
+    400060: Knee.L_end
+    400062: Knee.R
+    400064: Knee.R_end
+    400066: L1 shield
+    400068: L1 spear
+    400070: Rig.002
+    400072: shin.L
+    400074: shin.R
+    400076: Spine1-pelvis
+    400078: Spine2
+    400080: Spine3
+    400082: thigh.L
+    400084: thigh.R
+    400086: Thumb1.L
+    400088: Thumb1.R
+    400090: Thumb2.L
+    400092: Thumb2.L_end
+    400094: Thumb2.R
+    400096: Thumb2.R_end
+    400098: UpperArm.L
+    400100: UpperArm.R
+    400102: Weapon
+    400104: Weapon - part1
+    400106: Weapon - part1_end
+    400108: Weapon - part2
+    400110: Weapon - part2_end
+    2100000: Baked - Colours
+    2100002: LowPoly - Brown - Light
+    2100004: LowPoly - Grey
+    4300000: L1 shield
+    4300002: L1 spear
+    7400000: Rig.002|1 - 1 WAGON - idle
+    7400002: Rig.002|1 - L1 archer - idle
+    7400004: Rig.002|1 - L1 warrior - Idle
+    7400006: Rig.002|1 - L2 Pike - Idle
+    7400008: Rig.002|2 - L1 archer - run
+    7400010: Rig.002|2 - L1 warrior - Run
+    7400012: Rig.002|2 - L2 Pike - Run
+    7400014: Rig.002|3 - L1 archer - attack
+    7400016: Rig.002|3 - L1 axeman - Attack
+    7400018: Rig.002|3 - L1 warrior - Attack - universal
+    7400020: Rig.002|3 - L1 warrior - Attack - universal.002
+    7400022: Rig.002|3 - L2 Pike - Attack - universal
+    7400024: Rig.002|4 - L2 Pike - Attack - impaled
+    7400026: Rig.002|5 - L2 Pike - Attack - overhead
+    7400028: Rig.002|6 - L2 Pike - Death - spear
+    7400030: Rig.002|7 - L2 Pike - Death - impaled
+    7400032: Rig.002|8 - L2 Pike - Death - slammed
+    9500000: //RootNode
+    13700000: L1 shield
+    13700002: L1 spear
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Rig.002|1 - L1 warrior - Idle
+      takeName: Rig.002|1 - L1 warrior - Idle
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rig.002|2 - L1 warrior - Run
+      takeName: Rig.002|2 - L1 warrior - Run
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rig.002|3 - L1 axeman - Attack
+      takeName: Rig.002|3 - L1 axeman - Attack
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rig.002|3 - L1 warrior - Attack - universal
+      takeName: Rig.002|3 - L1 warrior - Attack - universal
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rig.002|3 - L1 warrior - Attack - universal.002
+      takeName: Rig.002|3 - L1 warrior - Attack - universal.002
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 9e4b3ed746f04cd48b0c5a758794dd6e,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

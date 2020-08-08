@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e716ff03101bbc34d8b4b68031cabe26, type: 3}
+  m_Name: Tower - L1
+  m_EditorClassIdentifier: 
+  buildingObj: {fileID: 8478053015326842141, guid: f53246299c77d9d44a6136418e926d6b,
+    type: 3}
+  mat_Proto: {fileID: 2100000, guid: e1855012c6cfe8b4fb2a67428f3c90ae, type: 2}
+  mat_Final: {fileID: 2100000, guid: e7fbce933966edc48abe6c9f1091acfd, type: 2}
+  cost:
+    meat: 0
+    wood: 0
+    stone: 0
+    metal: 0
+    gold: 0
+  wall:
+    wallObj: {fileID: 0}
+    wallLength: 0
+    wallOffset: 0

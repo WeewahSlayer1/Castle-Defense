@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e716ff03101bbc34d8b4b68031cabe26, type: 3}
+  m_Name: Gate - L1
+  m_EditorClassIdentifier: 
+  buildingObj: {fileID: 3654713898470496480, guid: 872c84db4e7fd5345b4d0c60ac731592,
+    type: 3}
+  mat_Proto: {fileID: 2100000, guid: 3481526abbb2e264abab9c6f2fb82768, type: 2}
+  mat_Final: {fileID: 0}
+  cost:
+    meat: 0
+    wood: 0
+    stone: 0
+    metal: 0
+    gold: 0
+  wall:
+    wallObj: {fileID: 0}
+    wallLength: 0
+    wallOffset: 0

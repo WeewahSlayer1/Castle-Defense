@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 411b2025820566446993d6cfd778f110
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Elbow.L
+    100002: Elbow.L_end
+    100004: Elbow.R
+    100006: Elbow.R_end
+    100008: Finger1.L
+    100010: Finger1.R
+    100012: Finger2.L
+    100014: Finger2.L.001
+    100016: Finger2.L.001_end
+    100018: Finger2.L_end
+    100020: foot.L
+    100022: foot.L_end
+    100024: foot.R
+    100026: foot.R_end
+    100028: footIK.L
+    100030: footIK.L_end
+    100032: footIK.R
+    100034: footIK.R_end
+    100036: Forearm.L
+    100038: Forearm.R
+    100040: hand.L
+    100042: hand.R
+    100044: handIK.L
+    100046: handIK.L_end
+    100048: handIK.R
+    100050: handIK.R_end
+    100052: Head
+    100054: Head_end
+    100056: Knee.L
+    100058: Knee.L_end
+    100060: Knee.R
+    100062: Knee.R_end
+    100064: //RootNode
+    100066: L2 Shield
+    100068: L2 Soldier
+    100070: L2 spear
+    100072: Rig
+    100074: shin.L
+    100076: shin.R
+    100078: Spine1-pelvis
+    100080: Spine2
+    100082: Spine3
+    100084: thigh.L
+    100086: thigh.R
+    100088: Thumb1.L
+    100090: Thumb1.R
+    100092: Thumb2.L
+    100094: Thumb2.L_end
+    100096: Thumb2.R
+    100098: Thumb2.R_end
+    100100: UpperArm.L
+    100102: UpperArm.R
+    100104: Weapon
+    100106: Weapon - lefty
+    100108: Weapon - lefty_end
+    100110: Weapon - part1
+    100112: Weapon - part1_end
+    100114: Weapon - part2
+    100116: Weapon - part2_end
+    400000: Elbow.L
+    400002: Elbow.L_end
+    400004: Elbow.R
+    400006: Elbow.R_end
+    400008: Finger1.L
+    400010: Finger1.R
+    400012: Finger2.L
+    400014: Finger2.L.001
+    400016: Finger2.L.001_end
+    400018: Finger2.L_end
+    400020: foot.L
+    400022: foot.L_end
+    400024: foot.R
+    400026: foot.R_end
+    400028: footIK.L
+    400030: footIK.L_end
+    400032: footIK.R
+    400034: footIK.R_end
+    400036: Forearm.L
+    400038: Forearm.R
+    400040: hand.L
+    400042: hand.R
+    400044: handIK.L
+    400046: handIK.L_end
+    400048: handIK.R
+    400050: handIK.R_end
+    400052: Head
+    400054: Head_end
+    400056: Knee.L
+    400058: Knee.L_end
+    400060: Knee.R
+    400062: Knee.R_end
+    400064: //RootNode
+    400066: L2 Shield
+    400068: L2 Soldier
+    400070: L2 spear
+    400072: Rig
+    400074: shin.L
+    400076: shin.R
+    400078: Spine1-pelvis
+    400080: Spine2
+    400082: Spine3
+    400084: thigh.L
+    400086: thigh.R
+    400088: Thumb1.L
+    400090: Thumb1.R
+    400092: Thumb2.L
+    400094: Thumb2.L_end
+    400096: Thumb2.R
+    400098: Thumb2.R_end
+    400100: UpperArm.L
+    400102: UpperArm.R
+    400104: Weapon
+    400106: Weapon - lefty
+    400108: Weapon - lefty_end
+    400110: Weapon - part1
+    400112: Weapon - part1_end
+    400114: Weapon - part2
+    400116: Weapon - part2_end
+    2100000: Baked - Colours
+    2100002: LowPoly - Brown - Light
+    2100004: LowPoly - Grey
+    4300000: L2 Soldier
+    4300002: L2 spear
+    4300004: L2 Shield
+    7400000: Ready1 - L2 Shield
+    7400002: Ready2 - L2 Shield
+    7400004: March1 - L2 Shield
+    7400006: March2 - L2 Shield
+    7400008: Attack - L2 Shield
+    7400010: Run - L2 Shield
+    7400012: Idle - L2 Shield
+    9500000: //RootNode
+    13700000: L2 Shield
+    13700002: L2 Soldier
+    13700004: L2 spear
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Ready1 - L2 Shield
+      takeName: Ready1 - L2 Shield
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Ready2 - L2 Shield
+      takeName: Ready2 - L2 Shield
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: March1 - L2 Shield
+      takeName: March1 - L2 Shield
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: March2 - L2 Shield
+      takeName: March2 - L2 Shield
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack - L2 Shield
+      takeName: Attack - L2 Shield
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run - L2 Shield
+      takeName: Run - L2 Shield
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle - L2 Shield
+      takeName: Idle - L2 Shield
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

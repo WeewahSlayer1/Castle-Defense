@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: 8f95c6111bcf1b64c8657c92c0103c5d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Elbow.L
+    100004: Elbow.L_end
+    100006: Elbow.R
+    100008: Elbow.R_end
+    100010: Finger1.L
+    100012: Finger1.R
+    100014: Finger2.L
+    100016: Finger2.L.001
+    100018: Finger2.L.001_end
+    100020: Finger2.L_end
+    100022: Foot soldier
+    100024: foot.L
+    100026: foot.L_end
+    100028: foot.R
+    100030: foot.R_end
+    100032: footIK.L
+    100034: footIK.L_end
+    100036: footIK.R
+    100038: footIK.R_end
+    100040: Forearm.L
+    100042: Forearm.R
+    100044: hand.L
+    100046: hand.R
+    100048: handIK.L
+    100050: handIK.L_end
+    100052: handIK.R
+    100054: handIK.R_end
+    100056: Head
+    100058: Head_end
+    100060: Knee.L
+    100062: Knee.L_end
+    100064: Knee.R
+    100066: Knee.R_end
+    100068: Pike
+    100070: Rig
+    100072: shin.L
+    100074: shin.R
+    100076: Spine1-pelvis
+    100078: Spine2
+    100080: Spine3
+    100082: thigh.L
+    100084: thigh.R
+    100086: Thumb1.L
+    100088: Thumb1.R
+    100090: Thumb2.L
+    100092: Thumb2.L_end
+    100094: Thumb2.R
+    100096: Thumb2.R_end
+    100098: UpperArm.L
+    100100: UpperArm.R
+    100102: Weapon
+    100104: Weapon - part1
+    100106: Weapon - part1_end
+    100108: Weapon - part2
+    100110: Weapon - part2_end
+    400000: //RootNode
+    400002: Elbow.L
+    400004: Elbow.L_end
+    400006: Elbow.R
+    400008: Elbow.R_end
+    400010: Finger1.L
+    400012: Finger1.R
+    400014: Finger2.L
+    400016: Finger2.L.001
+    400018: Finger2.L.001_end
+    400020: Finger2.L_end
+    400022: Foot soldier
+    400024: foot.L
+    400026: foot.L_end
+    400028: foot.R
+    400030: foot.R_end
+    400032: footIK.L
+    400034: footIK.L_end
+    400036: footIK.R
+    400038: footIK.R_end
+    400040: Forearm.L
+    400042: Forearm.R
+    400044: hand.L
+    400046: hand.R
+    400048: handIK.L
+    400050: handIK.L_end
+    400052: handIK.R
+    400054: handIK.R_end
+    400056: Head
+    400058: Head_end
+    400060: Knee.L
+    400062: Knee.L_end
+    400064: Knee.R
+    400066: Knee.R_end
+    400068: Pike
+    400070: Rig
+    400072: shin.L
+    400074: shin.R
+    400076: Spine1-pelvis
+    400078: Spine2
+    400080: Spine3
+    400082: thigh.L
+    400084: thigh.R
+    400086: Thumb1.L
+    400088: Thumb1.R
+    400090: Thumb2.L
+    400092: Thumb2.L_end
+    400094: Thumb2.R
+    400096: Thumb2.R_end
+    400098: UpperArm.L
+    400100: UpperArm.R
+    400102: Weapon
+    400104: Weapon - part1
+    400106: Weapon - part1_end
+    400108: Weapon - part2
+    400110: Weapon - part2_end
+    2100000: Baked - Colours
+    4300000: Foot soldier
+    4300002: Pike
+    7400000: Attack - L2 Pike
+    7400002: Attack2 - L2 Pike
+    7400004: Attack3 - L2 Pike
+    7400006: Death - L2 Pike
+    7400008: Death2 - L2 Pike
+    7400010: Death3 - L2 Pike
+    7400012: Idle - L2 Pike
+    7400014: Run - L2 Pike
+    7400016: Rig|Attack - L1 Archer
+    7400018: Rig|Attack - L1 Axeman
+    7400020: Rig|Attack - L1 Warrior
+    7400022: Rig|Attack - L1 Warrior.001
+    7400024: Rig|Attack - L2 Pike
+    7400026: Rig|Attack2 - L1 Archer
+    7400028: Rig|Attack2 - L2 Pike
+    7400030: Rig|Attack3 - L2 Pike
+    7400032: Rig|Death - L2 Pike
+    7400034: Rig|Death2 - L2 Pike
+    7400036: Rig|Death3 - L2 Pike
+    7400038: Rig|Idle - Archer
+    7400040: Rig|Idle - L2 Pike
+    7400042: Rig|Idle - Wagon
+    7400044: Rig|Run - L1 Archer
+    7400046: Rig|Run - L1 Warrior
+    7400048: Rig|Run - L2 Pike
+    7400050: Rig|Run - L2 Pike.001
+    7400052: Rig|Run - L2 Pike.002
+    9500000: //RootNode
+    13700000: Foot soldier
+    13700002: Pike
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack - L2 Pike
+      takeName: Attack - L2 Pike
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack2 - L2 Pike
+      takeName: Attack2 - L2 Pike
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack3 - L2 Pike
+      takeName: Attack3 - L2 Pike
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death - L2 Pike
+      takeName: Death - L2 Pike
+      firstFrame: 0
+      lastFrame: 51
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death2 - L2 Pike
+      takeName: Death2 - L2 Pike
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death3 - L2 Pike
+      takeName: Death3 - L2 Pike
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle - L2 Pike
+      takeName: Idle - L2 Pike
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run - L2 Pike
+      takeName: Run - L2 Pike
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 9e4b3ed746f04cd48b0c5a758794dd6e,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
